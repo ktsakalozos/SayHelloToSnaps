@@ -1,0 +1,13 @@
+apps:
+  hello-snappy-world:
+    command: command-hello-snappy-world.wrapper
+architectures:
+- amd64
+confinement: strict
+description: 'This is a hello world app for snaps.
+
+  '
+grade: devel
+name: hello-snappy-world
+summary: Just a toy app for educational purposes
+version: '0.1'
