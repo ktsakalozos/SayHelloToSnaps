@@ -1,7 +1,0 @@
-!StageState
-directories: !!set {bin: null}
-files: !!set {bin/hello-snappy-world: null}
-project_options: {}
-properties:
-  filesets: {}
-  stage: ['*']
